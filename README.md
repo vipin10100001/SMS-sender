@@ -6,7 +6,9 @@ This project aims to send a message as given in code to a number using Twilio AP
 3) Get the Twilio Number.
 <br> <br>
 
-#Dependencies to be installed <br>
+# Dependencies to be installed  
+<br> <br>
+
 1)Express Js - npm i express <br>
 2)Dotenv  - npm i dotenv <br>
 3)Twilio - npm install twilio   <br>
