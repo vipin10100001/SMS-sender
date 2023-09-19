@@ -10,7 +10,7 @@ function sendSMS() {
 
   client.messages
     .create({
-      body: 'Hello from TOPG',
+      body: 'Hello Bro',
       from: process.env.TWILIO_PHONE_NUMBER,
       to: process.env.PHONE_NUMBER,
     })
